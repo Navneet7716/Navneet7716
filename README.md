@@ -1,11 +1,8 @@
 <h3 title="lmao"> Hey 👋, I'm Navneet!</h3>
 
 <a href="https://www.linkedin.com/in/navneet7716">
-  <img align="left" alt="Bharat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Navneet's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<!-- <a href="https://www.instagram.com/bharat.kharbanda/">
-  <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a> -->
 <a href="https://www.instagram.com/navneetkrsinghhh/">
   <img align="left" alt="Navneet's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -19,7 +16,7 @@
 <br />
 <br />
 
-A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
+A **WEB DEVELOPMENT** ***Enthusiast*** 🌎.
  
 
   <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
@@ -44,13 +41,15 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=navneet7716&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Navneet's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navneet7716&count_private=true&theme=radical" alt="ravencode" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneet7716&count_private=true&theme=radical" alt="ravencode" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navneet7716&count_private=true&theme=radical" alt="navneet7716" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneet7716&count_private=true&theme=radical" alt="navneet7716" />
 
 ----
 Credit: [Navneet7716](https://github.com/navneet7716)
