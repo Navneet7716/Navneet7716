@@ -49,7 +49,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🌎.
 
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=navneet7716&show_icons=true&hide_border=true&count_private=true&theme=shades-of-       purple&icon_color=fad000" alt="Navneet's GitHub Stats">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=navneet7716&count_private=true&theme=radical" alt="navneet7716" />
-    <img align="left" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneet7716&count_private=true&theme=radical" alt="navneet7716"/>
+    <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneet7716&count_private=true&theme=radical" alt="navneet7716"/>
   
 ----
 Credit: [Navneet7716](https://github.com/navneet7716)
