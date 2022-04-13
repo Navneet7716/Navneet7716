@@ -47,11 +47,19 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🌎.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=navneet7716&show_icons=true&hide_border=true&count_private=true&theme=shades-of-       purple&icon_color=fad000" alt="Navneet's GitHub Stats">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=navneet7716&count_private=true&theme=radical" alt="navneet7716" />
-    <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneet7716&count_private=true&theme=radical" alt="navneet7716"/>
+## My Stats 
+
+ <div align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=navneet7716&show_icons=true&hide_border=true&count_private=true&theme=radical&icon_color=fad000" alt="Navneet's GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navneet7716&count_private=true&theme=radical" alt="navneet7716" />
+    <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneet7716&count_private=true&theme=radical" alt="navneet7716"/>
+<img src="https://user-images.githubusercontent.com/59951258/163189077-c5aa32a4-0672-4509-8525-9ccc8b4550b1.gif" />
+  
+
+  <img src="https://activity-graph.herokuapp.com/graph?username=navneet7716&theme=rogue"/>
+  </div>
   
 ----
 Credit: [Navneet7716](https://github.com/navneet7716)
 
-Last Edited on: 20/01/2022
+Last Edited on: 13/04/2022
