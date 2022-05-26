@@ -18,9 +18,6 @@
 
 A **WEB DEVELOPMENT** ***Enthusiast*** 🌎.
  
-
-  <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
-
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at KL University
@@ -28,9 +25,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🌎.
 - 🤔 My interest lies in Web Development and Machine Learning
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [navneetsingh969@gmail.com](mailto:navneetsingh969@gmail.com@gmail.com).
-
-
-
+  
 **Languages and Tools:**  
 
 
