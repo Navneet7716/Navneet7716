@@ -11,8 +11,6 @@
 </a>
 
 
-
-
 <br />
 <br />
 
@@ -46,6 +44,11 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🌎.
 ## My Stats 
 
  <div align="center">
+  
+  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=navneet7716&label=Profile%20views&color=0e75b6&style=flat" alt="navneet7716" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navneet7716" alt="navneet7716" /></a> </p>
   <img  src="https://github-readme-stats.vercel.app/api?username=navneet7716&show_icons=true&hide_border=true&count_private=true&theme=radical&icon_color=fad000" alt="Navneet's GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=navneet7716&count_private=true&theme=radical" alt="navneet7716" />
     <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneet7716&count_private=true&theme=radical" alt="navneet7716"/>
