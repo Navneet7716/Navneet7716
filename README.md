@@ -23,7 +23,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🌎.
 - 🤔 My interest lies in Web Development and Machine Learning
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [navneetsingh969@gmail.com](mailto:navneetsingh969@gmail.com@gmail.com).
-- 🌐 Personal website - [link](https://navneet-singh.super.site/)
+- 🌐 Personal website - [link](https://www.navneet-singh.site/)
   
 **Languages and Tools:**  
 
